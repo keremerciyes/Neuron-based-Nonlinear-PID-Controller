@@ -14,8 +14,6 @@ This project demonstrates the outputs of the controller and system response for 
 - [Results](#results)
 - [Installation](#installation)
 - [Usage](#usage)
-- [References](#references)
-- [Contact](#contact)
 
 ## Introduction
 
